@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ObligatoriskOpgave_9marts2022/1.0.0": {
+        "runtime": {
+          "ObligatoriskOpgave_9marts2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObligatoriskOpgave_9marts2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\bin\Debug\net5.0\ObligatoriskOpgave_9marts2022.deps.json
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\bin\Debug\net5.0\ObligatoriskOpgave_9marts2022.dll
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\bin\Debug\net5.0\ref\ObligatoriskOpgave_9marts2022.dll
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\bin\Debug\net5.0\ObligatoriskOpgave_9marts2022.pdb
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.AssemblyInfo.cs
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.dll
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ref\ObligatoriskOpgave_9marts2022.dll
+C:\Users\krist\source\repos\ObligatoriskOpgave_9marts2022\ObligatoriskOpgave_9marts2022\obj\Debug\net5.0\ObligatoriskOpgave_9marts2022.pdb
